@@ -1,0 +1,21 @@
+{
+  "name": "rozetka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e-setup": "node_modules/selenium-standalone/bin/selenium-standalone install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^74.0.0",
+    "geckodriver": "^1.16.2",
+    "selenium-standalone": "^6.16.0"
+  },
+  "dependencies": {
+    "nightwatch": "^1.1.11"
+  },
+  "description": ""
+}
