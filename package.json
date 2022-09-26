@@ -15,7 +15,7 @@
     "selenium-standalone": "^6.16.0"
   },
   "dependencies": {
-    "nightwatch": "^1.1.11"
+    "nightwatch": "^1.7.13"
   },
   "description": ""
 }
